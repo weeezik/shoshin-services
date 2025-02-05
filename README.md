@@ -1,1 +1,1 @@
-# shoshin-services
+# Shoshin Services
